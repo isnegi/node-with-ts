@@ -1,0 +1,3 @@
+touch .eslintignore
+node_modules
+dist
